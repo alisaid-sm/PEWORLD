@@ -2,7 +2,10 @@
 
 Peworld is a web application dedicated to make jobseeking process more simple. Jobseekers can make their profile as excellent as they can, while recruiters can pick the best them based on their profile and send offering email.
 
-This is a frontend repository for HireJob App. It is built using VueJS as a framework and Vuex as a state management. This app also has realtime chat feature built using socket.io to connect between recruiters and jobseekers.
+It is built using VueJS as a framework and Vuex as a state management. This app also has realtime chat feature built using socket.io to connect between recruiters and jobseekers.
+
+Repository Front-End : https://github.com/Alfahan/hirejob.git
+Repository Back-End : https://github.com/Alfahan/HireJob-API.git
 
 #Preview
 ![Screenshot from 2020-10-17 23-35-19](https://user-images.githubusercontent.com/49190810/96348549-ff29b780-10d3-11eb-8adb-e48b606f7dfe.jpg)
