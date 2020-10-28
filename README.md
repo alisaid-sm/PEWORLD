@@ -8,7 +8,7 @@ Repository Front-End : https://github.com/Alfahan/hirejob.git
 
 Repository Back-End : https://github.com/Alfahan/HireJob-API.git
 
-U can try this web application : https://bit.ly/37CqDp2
+U can try this web application : http://bit.ly/Peworld-HireJob
 
 
 #Preview
