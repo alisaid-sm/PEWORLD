@@ -10,6 +10,12 @@ Repository Back-End : https://github.com/Alfahan/HireJob-API.git
 
 U can try this web application : http://bit.ly/Peworld-HireJob
 
+Demo Perekrut:
+
+Email : alisaid7171@gmail.com
+
+Password : 123456
+
 
 #Preview
 ![Screenshot from 2020-10-17 23-35-19](https://user-images.githubusercontent.com/49190810/96348549-ff29b780-10d3-11eb-8adb-e48b606f7dfe.jpg)
